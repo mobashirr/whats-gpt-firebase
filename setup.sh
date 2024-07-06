@@ -9,8 +9,12 @@ sudo apt update
 # echo "node installition end"
 
 # install npm
-sudo apt install npm
-echo "npm installition end"
+#npm install
+# npm outdated
+# npm install puppeteer@latest whatsapp-web.js@latest
+# npm audit fix
+#sudo apt install npm
+#echo "npm installition end"
 
 # install openai lib
 npm install openai
